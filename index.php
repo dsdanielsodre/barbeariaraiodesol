@@ -6,8 +6,8 @@
       <!-- PAGE settings -->
       <link rel="icon" href="img/logo.png">
       <title>Raio de Sol Barbearia</title>
-      <meta name="description" content="Raio de Sol Barbearia">
-      <meta name="keywords" content="Raio de Sol Barbearia">
+      <meta ="og:image" content="//https://barbeariaraiodesol.com/img/logo.png">
+
       <!-- CSS dependencies -->
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
       <link rel="stylesheet" href="neon.css">
@@ -16,7 +16,46 @@
       <script src="js/maps.js"></script>
       <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQAx6CLr0p1zQFDhB-5lHxn_8X49pkAxE&callback=initMap"></script>
       <!-- MAPS -->
-   </head>
+
+      <!-- SEO -->
+      <meta name="description" content="Barbearia Raio de Sol">
+      <meta name="author" content="Barbearia Raio de Sol">
+      <meta name="keywords" content="Barbearia Raio de Sol"/>
+
+      <link rel="alternate" href="" hreflang="pt-br" />
+      <meta name="robots" content="index, follow">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <meta property="og:url" content="https://barbeariaraiodesol.com/" />
+      <meta property="og:title" content="Barbearia Raio de Sol" />
+      <meta property="og:image" content="https://barbeariaraiodesol.com/miniatura.png" />
+      <meta property="og:description" content="Barbearia em Embu das Artes - SP - Brasil" />
+      <meta name="theme-color" content="#f1cd31">
+
+      <meta property="business:contact_data:country_name" content="Brasil" />
+      <meta property="business:contact_data:website" content="https://barbeariaraiodesol.com/" />
+      <meta property="business:contact_data:region" content="SP" />
+      <meta property="business:contact_data:email" content="contato@barbeariaraiodesol.com/" />
+      <meta property="business:contact_data:phone_number" content="(11) 9.1336-4608" />
+
+
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:description" content="Barbearia em Embu das Artes - SP - Brasil"/>
+      <meta name="twitter:title" content="Barbearia Raio de Sol" />
+      <meta name="twitter:image" content="https://barbeariaraiodesol.com/miniatura.png" />
+
+
+      <meta name="geo.placename" content="Embu das Artes" />
+      <meta name="geo.region" content="BR" />
+      <meta name="description" content="Barbearia em Embu das Artes - SP - Brasil" />
+      <link rel="canonical" href="https://barbeariaraiodesol.com/" />
+
+      <meta property="og:type" content="website" />
+      <meta property="og:locale" content="pt_BR" />
+      <meta name="format-detection" content="(11) 9.1336-4608">
+      <!-- SEO -->
+
+
    <body>
       <!-- Cover -->
       <div class="section-fade-out pt-5" style="background-image: url(&quot;img/demou3.jpg&quot;); background-position: center bottom;">
@@ -30,7 +69,7 @@
                   </div>
                </div>
                <div class="col-lg-6" style="">
-                  <a target ="_blank" href="https://www.facebook.com/raiodesol.barber"><img class="img-fluid d-block mx-auto" src="img/mobile  face edit.png" width="400">
+                  <a target ="_blank" href="https://www.facebook.com/raiodesol.barber"><img class="img-fluid d-block mx-auto" src="img/mobile  face edit.png" width="400" title="Barbearia Raio de Sol no Facebook" alt="Barbearia Raio de Sol no Facebook">
                </div>
                </a>
             </div>
@@ -42,7 +81,7 @@
             <hr class="featurette-divider">
             <div class="row mt-0 py-1" style="">
                <div class="col-md-6 order-2 order-md-1 animate-in-left mt-0 pt-0" style="">
-                  <a target="_blank" href="https://www.instagram.com/raiodesol_barber/"><img class="img-fluid d-block w-75 my-3 mx-auto" src="img/mobile ig.png" width="150" style=""> </a>
+                  <a target="_blank" href="https://www.instagram.com/raiodesol_barber/"><img class="img-fluid d-block w-75 my-3 mx-auto" src="img/mobile ig.png" width="150" title="Barbearia Raio de Sol no Instagram" alt="Barbearia Raio de Sol no Instagram"> </a>
                </div>
                <div class="col-md-6 align-self-center order-1 order-md-2 text-md-left text-center my-1" style="">
                   <h2>Redes Sociais 💈</h2>
@@ -104,9 +143,9 @@
                   <div class="row" id="caixa">
                      <div class="rodape col-sm-12 col-lg-4">
                         <p>
-               <a target ="_blank" href="https://www.instagram.com/p/CaHqTXXg67g/"><img class="img-fluid d-block mx-auto" src="img/POST/POST3.jpg" width="400"> </a></p></div>
-               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ2g5xhgoKQ/"><img class="img-fluid d-block mx-auto" src="img/POST/POST2.jpg" width="400"> </a></p></div>
-               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ19uc-uu4O/"><img class="img-fluid d-block mx-auto" src="img/POST/POST1.jpg" width="400"> </a></p></div>
+               <a target ="_blank" href="https://www.instagram.com/p/CaHqTXXg67g/"><img class="img-fluid d-block mx-auto" src="img/POST/POST3.jpg" width="400" title="Agende Seu horário" alt="Post de Instagram 1"> </a></p></div>
+               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ2g5xhgoKQ/"><img class="img-fluid d-block mx-auto" src="img/POST/POST2.jpg" width="400" title="Barba e Bigode R$8,00" alt="Post de Instagram 2"> </a></p></div>
+               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ19uc-uu4O/"><img class="img-fluid d-block mx-auto" src="img/POST/POST1.jpg" width="400" title="Cortes de Cabelo R$20,00" alt="Post de Instagram 3"> </a></p></div>
                </div>
                <div class="copy">
                   <img src="img/logo.png" alt="" style="width:100px; height: 100px; border-radius: 50%;" text-align: center;>
