@@ -186,10 +186,8 @@
                   <img src="img/miniatura.webp" alt="" style="width:100px; height: 100px; border-radius: 50%;" text-align: center;>
                   <p>
                      &copy; 2021 Barbearia Raio de Sol. &middot; <a href="#">Privacidade</a> &middot; <a href="#">Termos</a>
-                     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-                     <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dsdanielsodre" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/dsdanielsodre?trk=profile-badge">Daniel S.</a></div>
-              
-                     </div>
+                  
+               </div>
 
                </div>
             </footer>
