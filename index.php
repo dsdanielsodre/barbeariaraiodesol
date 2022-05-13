@@ -10,7 +10,7 @@
 
       <!-- CSS dependencies -->
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
-
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
       <link rel="stylesheet" href="estilo.css">
 
       <!--<link itemprop="thumbnailUrl" href="https://barbeariaraiodesol.com/img/demou3.webp">
@@ -107,7 +107,7 @@
             <hr class="featurette-divider">
             <div class="row mt-0 py-1" style="">
                <div class="col-md-6 order-2 order-md-1 animate-in-left mt-0 pt-0" style="">
-                  <a target="_blank" href="https://www.instagram.com/raiodesol_barber/"><img class="img-fluid d-block w-75 my-3 mx-auto" src="img/mobile ig.webp" width="150" title="Barbearia Raio de Sol no Instagram" alt="Barbearia Raio de Sol no Instagram"> </a>
+                  <a target="_blank" href="https://www.instagram.com/raiodesol_barber/"><img class="img-fluid d-block w-75 my-3 mx-auto" src="img/mobile ig.webp" title="Barbearia Raio de Sol no Instagram" alt="Barbearia Raio de Sol no Instagram"> </a>
                </div>
                <div class="col-md-6 align-self-center order-1 order-md-2 text-md-left text-center my-1" style="">
                   <h2>Redes Sociais 💈</h2>
@@ -163,23 +163,34 @@
                      <p><h5>Nossa equipe cortês e profissional dispõe de barbeiros com anos de experiência, sem fila de espera e sem stress.</h5></p>
                   </div>
                </div>
-               <!--GALERIA-->
+               <hr class="featurette-divider">
+               <h2 class="featurette-heading golden">Horário de Funcionamento ⏲<span class="text-muted"></h2>
+
+
+                <img class="img-fluid d-block mx-auto" src="img/horario.png"  title="Horário de Funcionamento" alt="Horario de Funcionamento" style="margin:0"></p>
+
+      <!--GALERIA-->
                <hr class="featurette-divider">
                <h2 class="featurette-heading">Instagram<span class="text-muted"><i class="fa fa-fw fa-instagram fa-1x text-white"></i></h2>
                <a target ="_blank" href="https://www.instagram.com/raiodesol_barber/">
                   <div class="row" id="caixa">
                      <div class="rodape col-sm-12 col-lg-4">
                                                       <p> <a target ="_blank" href="https://www.instagram.com/p/CbuoOPUgBml/"><img class="img-fluid d-block mx-auto" src="img/POST/POST6.webp" width="400" title="Estamos Funcionando" alt="Post de Instagram 6"> </a></p></div>
-               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CbdMkQTALvb/"><img class="img-fluid d-block mx-auto" src="img/POST/POST5.webp" width="400" title="Barber Pole" alt="Post de Instagram 5"> </a></p></div>
-               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CbXq4ZogcVV/"><img class="img-fluid d-block mx-auto" src="img/POST/POST4.webp" width="400" title="Estilo" alt="Post de Instagram 4"> </a></p></div>
-               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CaHqTXXg67g/"><img class="img-fluid d-block mx-auto" src="img/POST/POST3.webp" width="400" title="Agende Seu Horário" alt="Post de Instagram 3"> </a></p></div>
-               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ2g5xhgoKQ/"><img class="img-fluid d-block mx-auto" src="img/POST/POST2.webp" width="400" title="Barba e Bigode R$8,00" alt="Post de Instagram 2"> </a></p></div>
-               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ19uc-uu4O/"><img class="img-fluid d-block mx-auto" src="img/POST/POST1.webp" width="400" title="Cortes de Cabelo R$20,00" alt="Post de Instagram 1"> </a></p></div>
+               <div class="rodape col-sm-4 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CbdMkQTALvb/"><img class="img-fluid d-block mx-auto" src="img/POST/POST5.webp" width="400" title="Barber Pole" alt="Post de Instagram 5"> </a></p></div>
+               <div class="rodape col-sm-4 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CbXq4ZogcVV/"><img class="img-fluid d-block mx-auto" src="img/POST/POST4.webp" width="400" title="Estilo" alt="Post de Instagram 4"> </a></p></div>
+               <div class="rodape col-sm-4 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CaHqTXXg67g/"><img class="img-fluid d-block mx-auto" src="img/POST/POST3.webp" width="400" title="Agende Seu Horário" alt="Post de Instagram 3"> </a></p></div>
+               <div class="rodape col-sm-4 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ2g5xhgoKQ/"><img class="img-fluid d-block mx-auto" src="img/POST/POST2.webp" width="400" title="Barba e Bigode R$8,00" alt="Post de Instagram 2"> </a></p></div>
+               <div class="rodape col-sm-4 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ19uc-uu4O/"><img class="img-fluid d-block mx-auto" src="img/POST/POST1.webp" width="400" title="Cortes de Cabelo R$20,00" alt="Post de Instagram 1"> </a></p></div>
                </div>
                <div class="copy">
                   <img src="img/miniatura.webp" alt="" style="width:100px; height: 100px; border-radius: 50%;" text-align: center;>
                   <p>
                      &copy; 2021 Barbearia Raio de Sol. &middot; <a href="#">Privacidade</a> &middot; <a href="#">Termos</a>
+                     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+                     <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dsdanielsodre" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/dsdanielsodre?trk=profile-badge">Daniel S.</a></div>
+              
+                     </div>
+
                </div>
             </footer>
          </div>
