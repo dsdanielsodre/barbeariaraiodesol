@@ -1,5 +1,4 @@
-## barbeariaraiodesol
-barbeariaraiodesol
+## Barbearia Raio de Sol
 
 ## Sobre o Projeto
 A Barbearia Raio de Sol é uma aplicação web construido para gerenciar uma barbearia física em Embu das Artes - SP.
@@ -25,6 +24,6 @@ HTML / CSS / JS / Json
 ![Front 4](https://github.com/dsdanielsodre/assets/blob/main/img5.png)
 ![Front 5](https://github.com/dsdanielsodre/assets/blob/main/img6.png)
 
-#Versão para Mobile
+# Versão para Mobile
 
 ![Mobile 1](https://github.com/dsdanielsodre/assets/blob/main/img4.png)
