@@ -8,9 +8,7 @@ URL do Site: www.barbeariaraiodesol.com
 Autor: Daniel sodre Basilio
 Linkedin: https://www.linkedin.com/in/dsdanielsodre/
 
-# Tecnologias Utilizadas
-
-## Front end
+## Tecnologias Utilizadas
 
 HTML 
 CSS 
