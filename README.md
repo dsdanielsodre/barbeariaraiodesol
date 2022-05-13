@@ -17,3 +17,8 @@ Linkedin: https://www.linkedin.com/in/dsdanielsodre/
 HTML / CSS / JS / Json
 
 ![Mobile 1](https://github.com/dsdanielsodre/assets/blob/main/img1.png)
+![Mobile 2](https://github.com/dsdanielsodre/assets/blob/main/img2.png)
+![Mobile 3](https://github.com/dsdanielsodre/assets/blob/main/img3.png)
+![Mobile 4](https://github.com/dsdanielsodre/assets/blob/main/img4.png)
+![Mobile 5](https://github.com/dsdanielsodre/assets/blob/main/img5.png)
+![Mobile 6](https://github.com/dsdanielsodre/assets/blob/main/img6.png)
