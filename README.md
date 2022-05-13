@@ -16,5 +16,4 @@ Linkedin: https://www.linkedin.com/in/dsdanielsodre/
 #Front end
 HTML / CSS / JS / Json
 
-![Mobile 1] (https://github.com/dsdanielsodre/assets/blob/main/img1.png)!
-
+![Mobile 1](https://github.com/dsdanielsodre/assets/blob/main/img1.png)
