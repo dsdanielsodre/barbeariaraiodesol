@@ -1,0 +1,30 @@
+ #map {
+  min-height: 300px;
+  width: 100%;
+  margin: 0px;
+
+}
+
+.featurette{
+
+  position: relative;
+  float: left;
+  }
+
+  .featurette-vertical{
+    border-right: 1px solid #fff;
+  }
+
+  .featurette-horizontal{
+
+
+    border-bottom:  1px solid #fff;
+  }
+
+  .copy{
+
+    text-align:center;
+    width: 100%;
+    height: 100%;
+
+  }
