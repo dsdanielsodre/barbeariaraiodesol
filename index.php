@@ -169,10 +169,12 @@
                <a target ="_blank" href="https://www.instagram.com/raiodesol_barber/">
                   <div class="row" id="caixa">
                      <div class="rodape col-sm-12 col-lg-4">
-                        <p>
-               <a target ="_blank" href="https://www.instagram.com/p/CaHqTXXg67g/"><img class="img-fluid d-block mx-auto" src="img/POST/POST3.webp" width="400" title="Agende Seu horário" alt="Post de Instagram 1"> </a></p></div>
+                                                      <p> <a target ="_blank" href="https://www.instagram.com/p/CbuoOPUgBml/"><img class="img-fluid d-block mx-auto" src="img/POST/POST6.webp" width="400" title="Estamos Funcionando" alt="Post de Instagram 6"> </a></p></div>
+               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CbdMkQTALvb/"><img class="img-fluid d-block mx-auto" src="img/POST/POST5.webp" width="400" title="Barber Pole" alt="Post de Instagram 5"> </a></p></div>
+               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CbXq4ZogcVV/"><img class="img-fluid d-block mx-auto" src="img/POST/POST4.webp" width="400" title="Estilo" alt="Post de Instagram 4"> </a></p></div>
+               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CaHqTXXg67g/"><img class="img-fluid d-block mx-auto" src="img/POST/POST3.webp" width="400" title="Agende Seu Horário" alt="Post de Instagram 3"> </a></p></div>
                <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ2g5xhgoKQ/"><img class="img-fluid d-block mx-auto" src="img/POST/POST2.webp" width="400" title="Barba e Bigode R$8,00" alt="Post de Instagram 2"> </a></p></div>
-               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ19uc-uu4O/"><img class="img-fluid d-block mx-auto" src="img/POST/POST1.webp" width="400" title="Cortes de Cabelo R$20,00" alt="Post de Instagram 3"> </a></p></div>
+               <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ19uc-uu4O/"><img class="img-fluid d-block mx-auto" src="img/POST/POST1.webp" width="400" title="Cortes de Cabelo R$20,00" alt="Post de Instagram 1"> </a></p></div>
                </div>
                <div class="copy">
                   <img src="img/miniatura.webp" alt="" style="width:100px; height: 100px; border-radius: 50%;" text-align: center;>
