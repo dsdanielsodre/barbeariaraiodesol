@@ -1,3 +1,19 @@
+#titulo {
+
+font-family: "Rockwell";
+
+}
+
+.h2{
+                font-family: "Montserrat";
+
+            }
+
+            .h5{
+                            font-family: "Montserrat";
+
+                        }
+
  #map {
   min-height: 300px;
   width: 100%;
@@ -28,3 +44,13 @@
     height: 100%;
 
   }
+
+@media only screen and (max-width: 600px) {
+  .rodapelogo{
+ text-align: center;
+/*margin:30px 0px 60px 0px;()*/
+}
+
+
+
+}

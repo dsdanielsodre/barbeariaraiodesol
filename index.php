@@ -10,7 +10,7 @@
   <meta name="description" content="Raio de Sol Barbearia">
   <meta name="keywords" content="Raio de Sol Barbearia">
 
-  <!-- ATUALIZAR PAG SEMPRE --> <meta http-equiv="refresh" content="10">
+  <!-- ATUALIZAR PAG SEMPRE  <meta http-equiv="refresh" content="10">-->
 
   <!-- CSS dependencies -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
@@ -48,39 +48,51 @@
       </div>
     </div>
   </nav>-->
+
   <!-- Cover -->
   <div class="section-fade-out pt-5" style="background-image: url(&quot;img/demou3.jpg&quot;); background-position: center bottom;">
     <div class="container mt-5 pt-5">
       <div class="row">
         <div class="col-md-6 my-5 text-lg-left text-center align-self-center" style="">
-          <h1 class="display-2 text-primary" contenteditable="true" style="">Raio de Sol</h1>
-          <p class="lead">Barbearia</p>
+          <h1 class="display-2 text-primary" id="titulo" contenteditable="true" style="">Raio de Sol</h1>
+          <p class="lead" id="titulo">Barbearia</p>
           <div class="row mt-5">
             <div class="col-lg-8 col-0" style=""><a class="btn btn-outline-primary w-100" target="_blank" href="https://calendly.com/raiodesolbarbearia">Agendar Atendimento</a></div>
           </div>
         </div>
         <div class="col-lg-6" style="">
-            <a target ="_blank" href="https://www.facebook.com/raiodesol.barber"><img class="img-fluid d-block mx-auto" src="img/mobile  face edit.png" width="400"> </div>
+            <a target ="_blank" href="https://www.facebook.com/raiodesol.barber"><img class="img-fluid d-block mx-auto" src="img/mobile  face edit.png" width="400"> </div> </a>
       </div>
     </div>
   </div>
   <!-- Article style section -->
   <div class="mt-0 py-5" style="">
     <div class="container">
+<hr class="featurette-divider">
       <div class="row mt-0 py-1" style="">
         <div class="col-md-6 order-2 order-md-1 animate-in-left mt-0 pt-0" style="">
-          <a target="_blank" href="https://www.instagram.com/raiodesol_barber/"><img class="img-fluid d-block w-75 my-3 mx-auto" src="img/mobile insta.png" width="150" style=""> </div>
+          <a target="_blank" href="https://www.instagram.com/raiodesol_barber/"><img class="img-fluid d-block w-75 my-3 mx-auto" src="img/mobile ig.png" width="150" style=""> </a> </div>
         <div class="col-md-6 align-self-center order-1 order-md-2 text-md-left text-center my-1" style="">
 
-    <h2 style="">Redes Sociais</h2>
-          <p class="text-muted my-2" style="">A Raio de Sol Barbearia é a mais nova barbearia de Embu das Artes, estamos nas principais redes sociais, sigam:</p>
+          <h2>Redes Sociais</h2>
+          <h5><p class="text-muted my-3" style="">A Barbearia Raio de Sol é a mais nova barbearia de Embu das Artes, fique por dentro das novidades e promoções através das nossas redes socais:</p> </h5>
+
+          <!--Favcebook-->
           <a target="_blank" href="https://www.facebook.com/raiodesol.barber" <="" a="">
-            <i class="fa fa-fw fa-facebook fa-3x text-white"> </i>
+            <i class="fa fa-fw fa-facebook fa-5x text-white"> </i>
+
+            <!--Instagram-->
           </a><a target="_blank" href="https://www.instagram.com/raiodesol_barber/" <="" a="">
-            <i class="fa fa-fw fa-instagram fa-3x text-white"></i>
+            <i class="fa fa-fw fa-instagram fa-5x text-white"></i>
           </a>
-        </div><a target="_blank" href="https://www.instagram.com/raiodesol_barber/" <="" a="">
+
+          <!--Whatsapp-->
+        </a><a target="_blank" href="https://www.instagram.com/raiodesol_barber/" <="" a="">
+          <i class="fa fa-fw fa-whatsapp fa-5x text-white"></i>
         </a>
+
+
+        </div>
       </div><a target="_blank" href="https://www.instagram.com/raiodesol_barber/" <="" a="">
 
         <!-- JavaScript dependencies -->
@@ -99,8 +111,9 @@
             <a href="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly" target="_blank">Estr. São Gonçalo, Estr. São Marcos, 166, Embu das Artes - SP</a>
              | CEP:  <a href="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly" target="_blank">06814-105</a>
          </div>
-
+<p class="float-right"><a href="#"><img src="img/topo.png" style="width:50px; height: 50px; position:absolute; float: right; margin: auto; right:10px; top:10px;"></a></p>
       </div>
+
 <footer>
 
        <div class="row" id="caixa">
@@ -139,20 +152,15 @@
              <h5>Nossa equipe cortês e profissional dispõe de barbeiros com anos de experiência, sem fila de espera e sem stress.
              </h5>
              </p>
-          </div>
 
-                 <div class="rodape col-sm-12 col-lg-5">
+        </div>
 
-
-
-                            <img src="img/logodm.png" alt="">
-
-                         </div>
-          <p class="float-right"><a href="#"><img src="img/topo.png" style="width:50px; height: 50px; position:absolute; float: right; margin: auto; right:10px; top:10px"></a></p>
        </div>
 
+      <div class="copy">                   <img src="img/logo.png" alt="" style="width:100px; height: 100px; border-radius: 50%;" text-align: center;>
+        <p>
+        &copy; 2021 Barbearia Raio de Sol. &middot; <a href="#">Privacidade</a> &middot; <a href="#">Termos</a></div>
     </footer>
-<div class="copy"> &copy; 2021 Barbearia Raio de Sol. &middot; <a href="#">Privacidade</a> &middot; <a href="#">Termos</a></div>
     </div>
 
 
