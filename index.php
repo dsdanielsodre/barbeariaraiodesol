@@ -3,10 +3,11 @@
    <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
       <!-- PAGE settings -->
-      <link rel="icon" href="img/logo.png">
+      <link rel="icon" href="img/miniatura.jpg">
       <title>Raio de Sol Barbearia</title>
-      <meta ="og:image" content="//https://barbeariaraiodesol.com/img/logo.png">
 
       <!-- CSS dependencies -->
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
@@ -16,6 +17,29 @@
       <script src="js/maps.js"></script>
       <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQAx6CLr0p1zQFDhB-5lHxn_8X49pkAxE&callback=initMap"></script>
       <!-- MAPS -->
+
+
+
+
+      <!--<link itemprop="thumbnailUrl" href="https://barbeariaraiodesol.com/img/demou3.png">
+      <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
+      <link itemprop="url" href="https://barbeariaraiodesol.com/img/demou3.png"> </span>
+      -->
+      <!--PWD-->
+      <script src="js/sw.js"></script>
+      <link rel="manifest" href="manifest.json">
+      <meta name="theme-color" content="#f1cd31">
+      <link rel="apple-touch-icon" href="img/logo.jpg">
+      <link rel="manifest" href="manifest.json"/>
+      <link rel="canonical" href="https://barbeariaraiodesol.com">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="black">
+      <meta name="apple-mobile-web-app-title" content="edson iOS">
+      <link rel="apple-touch-icon" href="images/icons/icon-152x152.png">
+      <link rel="manifest" href="manifest.json" />
+      <!--PWD-->
+
+
 
       <!-- SEO -->
       <meta name="description" content="Barbearia Raio de Sol">
@@ -28,8 +52,9 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <meta property="og:url" content="https://barbeariaraiodesol.com/" />
       <meta property="og:title" content="Barbearia Raio de Sol" />
-      <meta property="og:image" content="https://barbeariaraiodesol.com/miniatura.png" />
+      <meta property="og:image" content="https://barbeariaraiodesol.com/img/demou3.png" />
       <meta property="og:description" content="Barbearia em Embu das Artes - SP - Brasil" />
+      <meta property="fb:app_id" content="568387333224088" />
       <meta name="theme-color" content="#f1cd31">
 
       <meta property="business:contact_data:country_name" content="Brasil" />
@@ -42,21 +67,39 @@
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:description" content="Barbearia em Embu das Artes - SP - Brasil"/>
       <meta name="twitter:title" content="Barbearia Raio de Sol" />
-      <meta name="twitter:image" content="https://barbeariaraiodesol.com/miniatura.png" />
-
+      <meta name="twitter:image" content="https://barbeariaraiodesol.com/img/demou3.png" />
 
       <meta name="geo.placename" content="Embu das Artes" />
       <meta name="geo.region" content="BR" />
       <meta name="description" content="Barbearia em Embu das Artes - SP - Brasil" />
       <link rel="canonical" href="https://barbeariaraiodesol.com/" />
 
-      <meta property="og:type" content="website" />
+      <meta property="og:type" content="Negócios" />
       <meta property="og:locale" content="pt_BR" />
       <meta name="format-detection" content="(11) 9.1336-4608">
       <!-- SEO -->
-
+</head>
 
    <body>
+
+  <script>
+  if ('serviceWorker' in navigator){
+    navigator.serviceWorker.register('sw.js')
+      .then(function() {
+        console.log('service worker registered');
+      })
+      .catch(function(){
+        console.warn('service worker failed');
+      });
+  }
+
+  </script>
+
+
+
+     <header>
+       <!-- Cabeçalho-->
+     </header>
       <!-- Cover -->
       <div class="section-fade-out pt-5" style="background-image: url(&quot;img/demou3.jpg&quot;); background-position: center bottom;">
          <div class="container mt-6 pt-5">
@@ -106,8 +149,7 @@
             <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-            <!-- Script: Smooth scrolling between anchors in the same page -->
-            <script src="js/smooth-scroll.js"></script>
+
             </a>
             <div class="col-lg-12" style="margin:0px; margin-bottom: 10px;">
                <div class="localizacao">
@@ -148,7 +190,7 @@
                <div class="rodape col-sm-12 col-lg-4"><p> <a target ="_blank" href="https://www.instagram.com/p/CZ19uc-uu4O/"><img class="img-fluid d-block mx-auto" src="img/POST/POST1.jpg" width="400" title="Cortes de Cabelo R$20,00" alt="Post de Instagram 3"> </a></p></div>
                </div>
                <div class="copy">
-                  <img src="img/logo.png" alt="" style="width:100px; height: 100px; border-radius: 50%;" text-align: center;>
+                  <img src="img/logo.jpg" alt="" style="width:100px; height: 100px; border-radius: 50%;" text-align: center;>
                   <p>
                      &copy; 2021 Barbearia Raio de Sol. &middot; <a href="#">Privacidade</a> &middot; <a href="#">Termos</a>
                </div>

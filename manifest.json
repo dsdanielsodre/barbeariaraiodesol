@@ -1,0 +1,13 @@
+{
+    "name": "Barbearia Raio de Sol",
+    "short_name": "Barbearia Raio de Sol",
+    "start_url": "/",
+    "theme_color": "#f1cd31",
+    "background_color": "#000000",
+    "display": "standalone",
+    "icons":[
+      {"scr":"/img/logo.ico",
+      "type": "image/png",
+      "sizes": "512x512"}
+  ]
+  }
